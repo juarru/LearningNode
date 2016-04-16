@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20a4de86-3912-41bb-84d7-b792da1c0497" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/juan_arillo.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simple_timer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../readwords/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../readwords/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="20a4de86-3912-41bb-84d7-b792da1c0497" name="Default" comment="" />
     <ignored path="simple_timer.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -182,12 +177,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1460806271701</updated>
-      <workItem from="1460806272855" duration="922000" />
+      <workItem from="1460806272855" duration="988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="922000" />
+    <option name="totallyTimeSpent" value="988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="43" width="1400" height="983" extended-state="0" />
